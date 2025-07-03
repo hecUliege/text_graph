@@ -2,7 +2,8 @@ This project aims to extract insightful information from unstructured text and t
 
 Here is the requirement setup for this project:
 
-Python 3.12
+**Python 3.12:**
+Use anaconda 
 **Pytorch: 2.7.1:** 
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
 
@@ -21,10 +22,6 @@ pip install pandas==2.3.0
 **Accelerate:**
 pip install accelerate==1.8.1
 
-pip install hf_xet
-pip install bitsandbytes
-pip install openpyxl==3.1.5
-
 **Spacy 3.8.2:**
 pip install -U pip setuptools wheel
 pip install -U spacy
@@ -36,4 +33,7 @@ pip install rdflib
 **Timexy:**
 pip install timexy
 
-
+**other lib**
+pip install hf_xet
+pip install bitsandbytes
+pip install openpyxl==3.1.5
