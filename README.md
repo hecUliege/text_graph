@@ -34,7 +34,7 @@ pip install rdflib
 **Timexy:**
 pip install timexy
 
-**other lib**
+**other lib:**
 pip install hf_xet
 pip install bitsandbytes
 pip install openpyxl==3.1.5
