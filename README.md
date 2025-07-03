@@ -4,6 +4,7 @@ Here is the requirement setup for this project:
 
 **Python 3.12:**
 Use anaconda 
+
 **Pytorch: 2.7.1:** 
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
 
