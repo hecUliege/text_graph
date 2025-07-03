@@ -1,1 +1,3 @@
-This project aim to extract the insight information from unstructured text and transform them into structured representation.
+This project aims to extract insightful information from unstructured text and transform it into a structured representation.
+
+
