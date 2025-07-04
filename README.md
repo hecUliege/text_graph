@@ -18,14 +18,23 @@ Use anaconda
 **datasets 3.6.0**
 
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
+
 pip install transformers
+
 pip install -U scikit-learn
+
 pip install openai
+
 pip install pandas==2.3.0
+
 pip install accelerate==1.8.1
+
 pip install -U pip setuptools wheel
+
 pip install -U spacy
+
 python -m spacy download en_core_web_lg
+
 pip install rdflib
 pip install timexy
 pip install datasets
