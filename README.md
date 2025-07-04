@@ -35,9 +35,18 @@ pip install -U spacy
 
 python -m spacy download en_core_web_lg
 
+python -m spacy download en_core_web_trf
+
+pip install nltk
+
 pip install rdflib
+
 pip install timexy
+
 pip install datasets
+
 pip install hf_xet
+
 pip install bitsandbytes
+
 pip install openpyxl==3.1.5
