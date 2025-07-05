@@ -18,6 +18,7 @@ Use anaconda
 **datasets 3.6.0**
 **peft 0.16.0**
 **sentence-transformers 5.0.0**
+**wandb 0.21.0**
 
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
 
@@ -56,3 +57,5 @@ pip install openpyxl==3.1.5
 pip install peft
 
 pip install -U sentence-transformers
+
+pip install wandb
