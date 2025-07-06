@@ -1,0 +1,200 @@
+,UserStory,Label
+0,"i want to have a view on all datasets published by all users ,",Capability
+1,i want to see a plan of what classes are planned for the upcoming 3 - 4 years,Capability
+2,"i want to be able to get back to the home page quickly and easily ,",Capability
+3,"i want to subscribe to an rss feed of news ,",Capability
+4,i can see it easily,Capability
+5,i could hop on real quick,Soft-goal
+6,i can pay by credit card,Capability
+7,i can focus on what is most relevant ( finding a job ),Soft-goal
+8,i want to offer the ride,Task
+9,i want to have ppopzip+4 work the same as the legal entity zip validations,Capability
+10,i need to schedule events in an efficient manner,Task
+11,"i want to read a new article on the front page about once a week ,",Capability
+12,"i want a mongo integration ,",Capability
+13,"i want to see the upcoming courses are what i want visitors to notice ,",Capability
+14,i want to be sent an email welcoming me to the scrum alliance and with instructions to register or activate my membership once my name has been loaded to the registry,Capability
+15,i know i can pay my bills,Capability
+16,"i want to manage ordinances ,",Task
+17,"i want to perform a completeness review ,",Task
+18,i can offer functionality based on dataset publisher privileges,Task
+19,"i want to see new content when i come to the site ,",Capability
+20,i can provide my analysis and show my work to users of the data,Task
+21,"i want to submit application ,",Capability
+22,i do not have to convert data formats in order to use the data packager,Hard-goal
+23,"i want to fill out an application to become a certified scrum trainer ,",Capability
+24,i want to prevent duplicate transactions from being published and deal with the time gap between validation and the publishing decision,Capability
+25,"i want email addresses , not contact forms ,",Capability
+26,"i want to know when the submission periods start and end ,",Capability
+27,i can maintain public / hidden status for other users,Capability
+28,"i want an spss integration ,",Capability
+29,others can use this information,Soft-goal
+30,"i want to have read - only access to dabs ,",Capability
+31,"i want to have articles that interest me and are easy to get to ,",Soft-goal
+32,i can read them without visiting the site,Capability
+33,i can create a new one,Capability
+34,"i want to understand the ways in which my data is invalid ,",Soft-goal
+35,"i want to submit my data elements surrounded by quotation marks ,",Capability
+36,"i like to keep my personal , work / club and course email separate",Capability
+37,"i want the language on fabs pages to be appropriate for me ,",Capability
+38,i want to share a feedback for application,Capability
+39,"i want to search for property information ,",Task
+40,my users can understand the interface in their native language,Soft-goal
+41,i don't want to have to log in ; i want a responsive system that notifies me when i have a message or a payment is received,Capability
+42,we could get along well together on the journey,Soft-goal
+43,"i want to know how many users have previewed a dataset ,",Capability
+44,i can give my users a great user experience,Soft-goal
+45,the data quality and completeness improves,Hard-goal
+46,others know my certifications when reading,Soft-goal
+47,i can integrate data - packaged data with pipelines that use elasticsearch,Capability
+48,i'd like campus applications to work on my phone,Hard-goal
+49,i want to have links to my disparate class websites ( including piazza and edx ) collected in one place,Capability
+50,"i want to manage approved proffers ,",Task
+51,i can ensure i can take the classes i need to graduate,Capability
+52,"i want to create a customer portal user account ,",Capability
+53,"i want the d1 file generation to be synced with the fpds data load ,",Capability
+54,i want to denote an application with a final action status,Capability
+55,"i want to be able to block specific users based on ip address ,",Capability
+56,i can go extend the ad,Capability
+57,i know how interest in a dataset relates to its actual download numbers,Soft-goal
+58,"i want to reply to user questions ,",Capability
+59,i want to better understand my file - level errors,Soft-goal
+60,my time isn't consumed with managing emails,Soft-goal
+61,i am most likely to read the most important or best content,Soft-goal
+62,"i want d files generation requests to be managed and cached ,",Task
+63,"i want more help knowing who to turn to when i have a problem , and be encouraged to do so",Capability
+64,i want to add useful metadata or add in new data columns to make the dataset more useful,Capability
+65,i can ensure compliance with the requirements prior to the hearing,Soft-goal
+66,i can integrate it and implement certain features in my own ios application,Capability
+67,my calendar is always with me,Hard-goal
+68,i can contact to the driver,Capability
+69,i want to find volunteer opportunities,Capability
+70,"i want to create a custom query / report outside of the common querying / reporting functionality ,",Capability
+71,i can find guidance in creating my own with open spending,Capability
+72,"i want to clearly understand notifications and how they are difference from other calendar - related items such as assignments ,",Soft-goal
+73,"i want to make it easy to prove that our published data is valid ,",Soft-goal
+74,i get them done on time and don't forget any of them,Hard-goal
+75,i can attract candidates,Soft-goal
+76,i'd like to be able to post to multiple places at once ( calcentral & facebook ),Capability
+77,"i want to be able to check that every time i update my data it is still good ,",Capability
+78,others can read them,Soft-goal
+79,i can arrange drop - offs on my off days or during after - work hours,Capability
+80,"i want an elasticsearch integration ,",Capability
+81,i can test any nonprod feature in any environment,Task
+82,"i want to be able to persistently store visualisation state in the database ,",Capability
+83,"i want to track the completion of required plan reviews ,",Capability
+84,i can benefit from the wide array of tools available for data packages,Soft-goal
+85,i want to have the 12 - 19 - 2017 deletions processed,Capability
+86,i can process cases the first time,Capability
+87,"i want to schedule a meeting ,",Task
+88,"i want to see a list of the most popular items on the site ,",Capability
+89,i can feel trust in the validity and usefulness of the data,Soft-goal
+90,"i want to get a data package into libreoffice / openoffice in seconds ,",Capability
+91,student organizations can find me based on my interests,Capability
+92,"i want to create a user testing summary from the ui sme ,",Capability
+93,i know i have enough available,Soft-goal
+94,"i want to perform a staff review ,",Task
+95,i can use it offline,Soft-goal
+96,"i want to delete any course or event ,",Capability
+97,"i want to manage plan reviewer workload ,",Task
+98,i want to send a message to a driver,Capability
+99,i want to see the time that the driver left,Capability
+100,i want the system to identify my location,Capability
+101,"i want to record an internal note ,",Capability
+102,i can fix my mistakes or have a dataset primarily for my own use,Capability
+103,it's more like the real world,Soft-goal
+104,"i want to submission errors to accurately represent fabs errors ,",Capability
+105,"i want to get my excel spreadsheet into a data package ,",Capability
+106,i can fix my submission,Capability
+107,i want to ensure that fabs is deriving fields properly through a robust test file plus a follow up check,Capability
+108,"i want to be able to filter notifications , filter out or flag items ( university - wide items from instructor items ) ,",Capability
+109,"i want to have the packager support constants ,",Capability
+110,i know how much money i have,Capability
+111,such can be shared more easily and contribute to a visualisation gallery,Soft-goal
+112,i can have better control over the navigation experience inside a map view,Soft-goal
+113,"i want to be able to read users' feedback and complaints ,",Capability
+114,i choose a course from an appropriate trainer,Capability
+115,"i want to receive a reminder and a link ,",Capability
+116,"i want an app that create proxy data packages for well know and reliable data , sources ,",Capability
+117,i can easily find a good living situation,Soft-goal
+118,i can decide if i want to attend any,Capability
+119,a county inspector is assigned to perform an inspection of my project,Task
+120,articles are visually appealing,Capability
+121,i want to generate and validate d files from fabs and fpds data,Capability
+122,"i want to view the profiles of other members ,",Capability
+123,i want to be able to include a large number of flexfields without performance impact,Capability
+124,"i want to edit the content of the email automatically sent to new certified scrum masters and product owners ,",Capability
+125,"i want to download the uploaded fabs file ,",Capability
+126,"my data is findable , and i can have a data api",Soft-goal
+127,i want to register to the capooling service,Task
+128,i can upload or delete stuff step by step,Capability
+129,"i want to add recycling center information ,",Capability
+130,"i want to modify my application ,",Capability
+131,"i want to have a prominent area on the home page where i can put special announcements not necessarily news or articles ,",Capability
+132,i can know clearly about the driver,Soft-goal
+133,my departure place is specified by default,Capability
+134,i want to personalize news feeds ( daily cal instead of campus news ),Capability
+135,i want to be able to keep track of which emails are important to come back to,Capability
+136,"i want to read current news on the home page ,",Capability
+137,"i want to get a data package into clojure in seconds ,",Capability
+138,i want to suggest the mood of mind,Capability
+139,i can publish and distribute the report according to business rules,Task
+140,"i want a tool to create an embeddable data summary via iframe ,",Capability
+141,"i want to add the updates on a fabs submission to be modified when the publishstatus changes ,",Capability
+142,i can meet service level and quality requirements,Soft-goal
+143,"i want to view user error logs ,",Capability
+144,i can share information with other staff collaborating on the record,Capability
+145,"i would like an integration with excel ,",Capability
+146,i can better understand the visual logic of the map view,Soft-goal
+147,"i want to include additional details about me in my profile page ,",Capability
+148,i can integrate data - packaged data with pipelines that use spss,Capability
+149,"i want to make sure the historical data includes all necessary columns ,",Hard-goal
+150,"i want to update one of my existing courses or events ,",Capability
+151,"i want to scroll through a listing of jobs ,",Capability
+152,"i am only looking at data that is relevant to me ( because i'm an international student , do not show financial aid information )",Soft-goal
+153,"i want to approve each help wanted ad before it gets to the site ,",Capability
+154,"i want to create an other course or event i am charged a listing fee for that activity ,",Capability
+155,i want to subscribe to any drivers or groups,Capability
+156,i want to be able to view the safe disposal events currently being organised around my area,Capability
+157,i have an accurate reference for my agency submissions,Soft-goal
+158,i don't have to regenerate a file if no data has been updated,Capability
+159,i would like to be able to easily ascertain what an email is about ( good subject line & table of contents ),Capability
+160,i can share the seat to the rider,Capability
+161,"i want to load an excel file into the site ,",Capability
+162,"i want to be able to create an acocunt ,",Capability
+163,only applicants who qualify can become csps or csts,Capability
+164,"i want to be able to enter my zip code and get a list of nearby recycling facilities ,",Capability
+165,i can see the new files as they come in,Capability
+166,i want to be able to add a Capability on the dashboard,Capability
+167,site visitors can decide if they want to read the rest,Soft-goal
+168,"i want to include a teaser with each article ,",Capability
+169,"i want to be able to understand if a user is an administrator ,",Soft-goal
+170,"i want to have an advanced search option that lets me fill in a form of search criteria ,",Capability
+171,i want to create an unsubscription call flow for users,Capability
+172,i know about recycling centers near me before creating an account,Hard-goal
+173,"i want to add general country names to my dataset that only contains country codes ,",Capability
+174,"i want to be able to use metadata to get results from multiple datasets ,",Capability
+175,i want to see the top destination,Capability
+176,i have a pleasant experience when navigating through them,Soft-goal
+177,i can make sure the appropriate inspector receives the work,Capability
+178,i can schedule and assign the inspection,Task
+179,"i want the publish button in fabs to deactivate after i click it while the derivations are happening ,",Capability
+180,i would like to see financial information that is relevant to me ( do not show financial aid info ),Capability
+181,the course participants are added to the scrum alliance records,Capability
+182,the other interested rider could see it,Capability
+183,"i want to report to the agencies about user testing ,",Capability
+184,users can preview the data and be encouraged that this is the correct data for them,Capability
+185,"i want to apply a hold ,",Capability
+186,"i want to conduct inspections ,",Task
+187,i'd like to see my ucb bills & awards in the context of my personal budget,Capability
+188,"i want to display my logo on a corporate sponsors page ,",Capability
+189,"i want to accurately see who created a submission ,",Capability
+190,i can identify any outliers or possible problems,Capability
+191,i can submit my data efficiently,Capability
+192,"i want to ensure the broker resources , validations , and p&p pages are updated appropriately for the launch of fabs and daims",Capability
+193,my methodology is transparent and can be rerun by others,Soft-goal
+194,i can be totally on top of my progress,Capability
+195,i can have consistent frec data for,Hard-goal
+196,"i want to post comments about articles ,",Capability
+197,"i want to set the annual fees for members , practitioners and trainers ,",Capability
+198,i want to confirm the proposal,Capability
